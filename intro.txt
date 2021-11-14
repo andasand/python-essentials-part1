@@ -9,3 +9,12 @@ Introduction to Software Development Careers:
     1. Software Development
     2. Software Testing
     3. Compuyter System Design
+
+Course Syllabus
+    1. Introduction to Python & Computer Programming
+    2. Data types, variables, basic input-output operations, basic operators
+    3. Boolean values, conditional execution, loops, lists, logical and bitwise  operations
+    4. Functions, tuples, dictionaries, and data processing
+
+Certification
+    PCEP - Certified Entry-Level Python Programmer
