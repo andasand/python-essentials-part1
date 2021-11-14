@@ -1,0 +1,11 @@
+Python Essentials - Part 1 (Basics) introduces the learner to:
+    Design
+    Write
+    Debug
+    Run 
+what?  Programs :-)
+
+Introduction to Software Development Careers:
+    1. Software Development
+    2. Software Testing
+    3. Compuyter System Design
