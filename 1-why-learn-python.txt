@@ -1,0 +1,18 @@
+Course Syllabus
+    ideas introduced
+        universal :-) concepts of computer Programming
+        syntax and semantics of the python language (local now :-)
+        helpful skills in resolving typical implementation challenges
+        some features of the Python Standard Library
+        installing runtime environment
+        design, write, test, and debug python Programs
+    4 modules
+        1. introduction to python and computer Programming
+        2. data types, variables, basic input-output operations, and basic operators
+        3. Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operations
+        4. functions, tuples, dictionaries, and data processing
+    goal
+        becoming a responsible software creator
+        able to take on different challenges 
+        in many positions
+        in the IT industry
