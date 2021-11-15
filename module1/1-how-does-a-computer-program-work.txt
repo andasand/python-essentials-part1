@@ -1,0 +1,57 @@
+computer:piano::program:player
+accept input --> process --> store --> display
+
+"language is a means for expressing and recording thoughts"
+
+what makes a language?
+    1. alphabet --> a set of symbols used to build words
+    2. lexis --> dictionary --> a set of words the language offers its users
+    3. syntax --> a set of rules used to determine if a certain string of words forms a valid sentence
+        "I am a python" ok
+        "python I a am" no
+    4. semantics --> a set of rules determining if a certain phrase makes sense
+        "I ate a doughnut" ok
+        "A doughnut ate me" no
+
+machine language --> a computer's mother tongue --> everything distills down to IL (Instruction List)
+high level programming languages --> intermediary between human languages and machine language
+
+a program written in a high-level programming language is called a source code
+a file containing the source code is called the source file
+
+computer programming is the act of composing the selected programming language's elements in the order that will cause the desired effect
+
+a composition has to be correct in many senses
+    1. alphabetically --> written in recognizable script
+    2. lexically --> each programming language has its dictionary and I need to master it
+    3. syntactically --> each language has its rules and they must be obeyed
+    4. semantically --> the program has to make sense
+
+2 ways of transforming a program from a high-level programming language into machine language
+    1. compilation --> source program is translated once by getting a file containing the machine code
+        a. file (ex: .exe file) can be distributed worldwide
+        b. program that does compilation is called a compiler
+    2. interpretation --> source program is translated each time the program is run
+        a. interpreter interprets the code each time it is intended to be executed
+        b. distrubting the source code is not enough because end-user also needs the interpreter to execute it
+
+what does the interpreter actually do?
+    read->check->execute source code
+    if an error is found --> program stopped --> error message displayed
+
+compilation vs interpretation
+    advantages of compilation
+        1. faster execution
+        2. end-user has no visibility to source code or a need for compiler 
+    disadvantages of compilation
+        1. compilation specific to the hardware
+        2. compilation could be time consuming > can eat into development time
+    advantages of interpretation
+        1. run the code as soon as you complete it
+        2. code stored as programming language (source code)
+            a. can be run on any machine with run-time environment
+    disadvantages of interpretation
+        1. slower processing as interpreter is also eating computer's power
+        2. every one needs to have the interpreter
+
+Python is an interpreted language

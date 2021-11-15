@@ -1,0 +1,8 @@
+fundamentals of computer programming
+    1. how a computer works
+    2. how a program is executd
+    3. how a programming language is defined and constructed
+compilation vs. interpretation
+What is python?
+How is python positioned among other languages?
+What distinguishes the different versions of Python?
