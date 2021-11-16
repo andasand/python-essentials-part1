@@ -55,3 +55,20 @@ compilation vs interpretation
         2. every one needs to have the interpreter
 
 Python is an interpreted language
+
+Guido's Goals for python
+    1. easy and intuitive
+    2. open source
+    3. understandable
+    4. suitale for everday tasks
+
+Python's rivals
+    1. Perl
+    2. Ruby
+
+Tools to use in writing python code
+    1. Editor 
+    2. Console --> where I launch the written code
+    3. Debugger --> launch code step-by-step, which will allow me to inspect it at each moment of execution
+
+IDLE --> Integrated Development and Learning Environment

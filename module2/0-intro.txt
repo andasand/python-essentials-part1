@@ -1,0 +1,5 @@
+learing objectives
+    1. writing and running simple python Programs
+    2. what python literals, operators, and expressions are
+    3. what variables are and what are the rules that govern them
+    4. how to perform basic input and output operations
